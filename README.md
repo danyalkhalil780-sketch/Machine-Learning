@@ -1,22 +1,30 @@
-# Machine-Learning
-“Machine Learning lab assignments and practical implementations in Python.”
-Hey! I'm Muhammad Danyal Khalil 👋
+Machine Learning & Deep Learning Lab
 
-⚡ Electrical Engineering Student
-💻 Python & Machine Learning Enthusiast
-📚 Passionate about AI, Data Analysis & Engineering Innovation
+Welcome to my Machine Learning and Deep Learning Lab Repository.
+This repository includes all laboratory exercises, practical implementations, and experiments completed during the ML & DL lab course.
 
-I like building projects that combine engineering concepts with programming. My interests include machine learning, automation, and solving real-world technical problems through smart systems.
+The main purpose of this repository is to demonstrate hands-on practice of Machine Learning and Deep Learning algorithms using Python and widely used data science tools.
 
-Currently Learning
+📚 Topics Covered
 
-🧠 Machine Learning
-📈 Data Analysis
-⚙️ AI Applications in Engineering
+Data cleaning and preprocessing
+Feature extraction and engineering
+Data visualization and analysis
+Regression models
+Optimization using gradient descent
+Understanding overfitting and underfitting
+Image dataset preprocessing
+Convolutional Neural Networks (CNN)
+Data augmentation techniques
+Multi-Layer Perceptrons (MLP)
+1D Convolutional Neural Networks
+Long Short-Term Memory (LSTM) networks
 
-Tech Stack
+🛠 Tools & Libraries
+
 Python
-C++
-MATLAB
-NumPy / Pandas / Scikit-learn
-Jupyter Notebook
+NumPy
+Pandas
+Matplotlib
+Scikit-learn
+TensorFlow / Keras
