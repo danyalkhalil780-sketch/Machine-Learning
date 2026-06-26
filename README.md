@@ -32,3 +32,10 @@ The following technologies and libraries were used throughout this course:
 - Matplotlib  
 - Scikit-learn  
 - TensorFlow / Keras  
+
+## 👨‍💻 Author
+
+### Muhammad Danyal Khalil
+⚡ Electrical Engineering Student  
+🤖 Machine Learning & Deep Learning Enthusiast  
+💻 Python | MATLAB | AI
