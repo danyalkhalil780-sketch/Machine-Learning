@@ -18,4 +18,3 @@ This lab introduces the basic data analysis libraries used in Python.
 - NumPy
 - Pandas
 - Matplotlib
-```
