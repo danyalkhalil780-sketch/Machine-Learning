@@ -7,18 +7,18 @@ The main purpose of this repository is to demonstrate hands-on practice of Machi
 
 📚 Topics Covered
 
-Data cleaning and preprocessing
-Feature extraction and engineering
-Data visualization and analysis
-Regression models
-Optimization using gradient descent
-Understanding overfitting and underfitting
-Image dataset preprocessing
-Convolutional Neural Networks (CNN)
-Data augmentation techniques
-Multi-Layer Perceptrons (MLP)
-1D Convolutional Neural Networks
-Long Short-Term Memory (LSTM) networks
+Data cleaning and preprocessing.
+Feature extraction and engineering.
+Data visualization and analysis.
+Regression models.
+Optimization using gradient descent.
+Understanding overfitting and underfitting.
+Image dataset preprocessing.
+Convolutional Neural Networks (CNN).
+Data augmentation techniques.
+Multi-Layer Perceptrons (MLP).
+1D Convolutional Neural Networks.
+Long Short-Term Memory (LSTM) networks.
 
 🛠 Tools & Libraries
 
