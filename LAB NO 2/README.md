@@ -1,4 +1,3 @@
-```markdown
 # Lab 02 — Introduction to Data Analysis Libraries
 
 ## Objective
